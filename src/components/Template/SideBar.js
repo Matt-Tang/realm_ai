@@ -12,8 +12,12 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>REALM_AI</h2>
+        <p><a href="mailto:yc23li@uwaterloo.ca">yc23li@uwaterloo.ca</a></p>
+        <p><a href="mailto:ea6lee@uwaterloo.ca">ea6lee@uwaterloo.ca</a></p>
+        <p><a href="mailto:km23lee@uwaterloo.ca">km23lee@uwaterloo.ca</a></p>
+        <p><a href="mailto:ml3tang@uwaterloo.ca">ml3tang@uwaterloo.ca</a></p>
+        <p><a href="mailto:m3meng@uwaterloo.ca">m3meng@uwaterloo.ca</a></p>
       </header>
     </section>
 
@@ -37,7 +41,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Matthew Tang 2021</p>
     </section>
   </section>
 );
