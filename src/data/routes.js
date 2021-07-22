@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: "REALM_AI",
+    label: 'REALM_AI',
     path: '/',
   },
   {
@@ -13,17 +13,17 @@ const routes = [
     path: '/resume',
   },
   {
-    label: 'Projects',
-    path: '/projects',
+    label: 'Timeline',
+    path: '/timeline',
   },
   {
     label: 'Stats',
     path: '/stats',
   },
-  {
-    label: 'Contact',
-    path: '/contact',
-  },
+  // {
+  //   label: 'Contact',
+  //   path: '/contact',
+  // },
 ];
 
 export default routes;

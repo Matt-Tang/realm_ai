@@ -22,7 +22,7 @@ const Index = () => (
       <p>Feel free to read more about the<Link to="/about"> members of the group</Link>,
         or you can check out our {' '}
         {/* <Link to="/resume">resume</Link>, {' '} */}
-        <Link to="/projects">progress and deliverables</Link>. {' '}
+        <Link to="/timeline">progress and deliverables</Link>. {' '}
         {/* view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me. */}
       </p>
