@@ -13,13 +13,13 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            Group 38 FYDP Overview.
+            Group 38 FYDP Overview
           </p>
         </div>
       </header>
-      <p>Welcome! We are Group 38. </p>
+      <p>Welcome! We are Group 38 from the <a href="https://uwaterloo.ca/electrical-computer-engineering/">Department of Electrical and Computer Engineering</a>.</p>
       <p>The group members are: Cliff Li, Ethan Lee, Ken Ming Lee, Matthew Tang, Michael Meng</p>
-      <p>Feel free to read more about the<Link to="/about"> members of the group</Link>,
+      <p>Feel free to read more about the <Link to="/team">members of the group</Link>,
         or you can check out our {' '}
         {/* <Link to="/resume">resume</Link>, {' '} */}
         <Link to="/timeline">progress and deliverables</Link>. {' '}

@@ -39,6 +39,11 @@ const data = [
     label: 'Total Meetings',
     value: '35',
   },
+  {
+    key: 'hoursTotal',
+    label: 'Total Hours Spent',
+    value: '600',
+  },
 ];
 
 export default data;

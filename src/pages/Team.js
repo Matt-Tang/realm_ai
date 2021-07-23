@@ -6,7 +6,7 @@ import raw from 'raw.macro';
 import Main from '../layouts/Main';
 
 // uses babel to load contents of file
-const markdown = raw('../data/about.md');
+const markdown = raw('../data/team.md');
 
 // const count = markdown.split(/\s+/)
 //   .map((s) => s.replace(/\W/g, ''))
@@ -15,10 +15,10 @@ const markdown = raw('../data/about.md');
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
-const About = () => (
+const Team = () => (
   <Main
-    title="About"
-    description="Learn about Michael D'Angelo"
+    title="Team"
+    description="Learn more about the Team."
   >
     <article className="post markdown" id="about">
       <header>
@@ -38,4 +38,4 @@ const About = () => (
   </Main>
 );
 
-export default About;
+export default Team;

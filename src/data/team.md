@@ -12,6 +12,10 @@ Because we have different backgrounds that means that we have different strength
 - Michael Meng (Data Storage, ETL Pipelines)
 - Cliff Li (Game Design and Development)
 
+# Consultant
+
+The consultant for the project was [Mark Crowley](https://uwaterloo.ca/electrical-computer-engineering/profile/mcrowley). He is an Assistant Professor in the Electrical and Computer Engineering department. His research and focus is on developing new algorithms within the fields of Reinforcement Learning, Deep Learning and Ensemble Methods. He often works in collaboration with researchers in applied fields such as sustainable forest management, ecology, autonomous driving, physical chemistry and medical imaging.
+
 # Matthew Tang
 
 Matthew is experienced. Feel free to reach out to him on [LinkedIn]()

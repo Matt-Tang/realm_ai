@@ -9,7 +9,7 @@ import data from '../data/timeline';
 const Timeline = () => (
   <Main
     title="Timeline"
-    description="Learn about Michael D'Angelo's projects."
+    description="Learn about Group 38's Progress."
   >
     <article className="post" id="projects">
       <header>

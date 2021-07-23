@@ -5,8 +5,8 @@ const routes = [
     path: '/',
   },
   {
-    label: 'About',
-    path: '/about',
+    label: 'Team',
+    path: '/team',
   },
   {
     label: 'Resume',
