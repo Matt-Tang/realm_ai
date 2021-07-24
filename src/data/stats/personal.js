@@ -37,7 +37,7 @@ const data = [
   {
     key: 'meetingTotal',
     label: 'Total Meetings',
-    value: '35',
+    value: '36',
   },
   {
     key: 'hoursTotal',

@@ -21,14 +21,14 @@ const Index = () => (
       <p>The group members are: Cliff Li, Ethan Lee, Ken Ming Lee, Matthew Tang, Michael Meng</p>
       <p>Feel free to read more about the <Link to="/team">members of the group</Link>,
         or you can check out our {' '}
-        {/* <Link to="/resume">resume</Link>, {' '} */}
         <Link to="/timeline">progress and deliverables</Link>. {' '}
-        {/* view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me. */}
       </p>
-      {/* <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p> */}
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
     </article>
   </Main>
+
 );
 
 export default Index;
